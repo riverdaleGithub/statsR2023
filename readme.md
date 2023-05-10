@@ -38,15 +38,18 @@ Learn how to clone, pull, and push to a Github repository! Here's what you need 
 
 🎉 That's it! You now know how to clone, pull, and push changes to a Github repository. Happy coding! 🎉
 
-## 🤖 Questions 🤖
+## 🤖 TODO's 🤖
+To be done via the terminal:
 
-1. Explain the actions clone, pull, and push
-2. Create a folder with your name. Add it to this repo.
-3. Add you project script to the repo and push changes.
-4. Add to the readme a short intro about your project
+1. Clone a local copy of this repo.
+2. Create a folder with your name. Add it to your clone.
+3. In your folder, add a readme.md with a short intro about your project
+4. In the readme, explain the actions clone, pull, and push using basic markdown
+5. Add you project script to your folder, and push changes with the commit message of your name.
+6. Locally pull all changes to demonstrate version control.
 
 ## Debug
 
 1: [Git Password via Terminal](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
-2: If we are all working on it, how are changes "merged"?
+2: Braching
