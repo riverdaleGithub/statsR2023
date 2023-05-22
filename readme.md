@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>🚀 Capstone Guide 🤖</title>
@@ -106,33 +105,41 @@
   <p>Learn how to structure and create your project readme</p>
 
   <details>
-    <summary class="mt-4"> Readme Template </summary>
+  <summary class="mt-4"> Readme Template </summary>
+  <pre><code>
+  
+  # 🌠 Project Title
 
-    <h1 class="mt-4">🌠 Project Title</h1>
+  ## 🚀 Introduction
 
-    <h2 class="mt-4">🚀 Introduction</h2>
-    <p>Describe the goal of your project here.</p>
+  Describe the goal of your project here.
 
-    <h2 class="mt-4">🧩 Dependencies</h2>
-    <ul>
-      <li>R (version)</li>
-      <li>R packages: dplyr, ggplot2, etc.</li>
-    </ul>
+  ## 🧩 Dependencies
 
-    <h2 class="mt-4">📊 Data</h2>
-    <p>Describe your data here.</p>
+  - R (version)
+  - R packages: dplyr, ggplot2, etc.
 
-    <h2 class="mt-4">🔬 Analysis</h2>
-    <p>Describe your analysis here.</p>
+  ## 📊 Data
 
-    <h2 class="mt-4">📈 Results</h2>
-    <p>Describe your results here.</p>
+  Describe your data here.
 
-    <h2 class="mt-4">💡 Conclusion</h2>
-    <p>What conclusions can be drawn from your analysis?</p>
+  ## 🔬 Analysis
 
-    <h2 class="mt-4">🎬 Example Run</h2>
-    <p>Explain how to run an example of your project.</p>
+  Describe your analysis here.
+
+  ## 📈 Results
+
+  Describe your results here.
+
+  ## 💡 Conclusion
+
+  What conclusions can be drawn from your analysis?
+
+  ## 🎬 Example Run
+
+  Explain how to run an example of your project.
+  
+  </pre></code>
   </details>
 
   <h2 class="mt-4">🔬 Detailed Github Guide 🔬</h2>
