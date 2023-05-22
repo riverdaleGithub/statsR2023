@@ -19,7 +19,7 @@ Please read through all the materials carefully. As always, don't hesitate to as
 </details>
 <br>
 
-## 🪄💫 Rubric For Final Stats R Project 🌟🔮
+## 🪄💫 Rubric 🌟🔮
 Happy coding, data wizards! 🧙‍♀️💻🔮
 
 <details>
@@ -169,9 +169,63 @@ Congratulations! 🎉 Your project is now on GitHub!
 
 <br>
 
+## 🚀 GH-Pages 🚀
+Turn your readme into a website
+
+<details>
+<summary> GH-Pages </summary>
+# 🌍🪐 Turning a GitHub Repo into GH-Pages 🌌🌟
+
+This guide will walk you through the steps to turn your GitHub repository into a GitHub Pages site, making your project easily accessible and presentable to anyone in the universe! 🚀🌟🌈
+
+## Prerequisites 🧰🔧
+
+Before getting started, make sure you have the following:
+
+- A GitHub account 💻🌐
+- A repository with the project you want to publish as a GitHub Pages site 📂🚀
+
+## Steps 🚀🔮
+
+1. **Navigate to your GitHub repository**
+
+   Open your web browser and go to your GitHub repository where your project is located.
+
+2. **Go to the "Settings" tab**
+
+   Once you're in your repository, click on the "Settings" tab located near the 🔝⚙️ of the page.
+
+3. **Scroll down to the "GitHub Pages" section**
+
+   Scroll down the settings page until you find the "GitHub Pages" section.
+
+4. **Select the source branch**
+
+   Under the "Source" section, choose the branch you want to use for GitHub Pages. It can be the `main` branch or any other branch containing the content you want to publish.
+
+5. **Save the changes**
+
+   After selecting the source branch, click on the "Save" button to apply the changes.
+
+6. **Wait for the site to build**
+
+   GitHub will build your GitHub Pages site automatically. It may take a few moments for the site to be created and become available.
+
+7. **Access your GitHub Pages site**
+
+   Once the site is built, you will see a green box in the "GitHub Pages" section with a link to your published site. Click on the link to access your GitHub Pages site.
+
+Congratulations! 🎉 Your GitHub repository is now a GitHub Pages site! 🌟🔮🎉
+
+## Customizing your GitHub Pages site 🎨✨
+
+You can further customize your GitHub Pages site by adding a custom domain, choosing a theme, and modifying the site's settings. Refer to the [GitHub Pages documentation](https://docs.github.com/en/pages) for more information and unleash your creativity! 🌈💫🎉
+
+  
+</details>
 
 
-# Debug
+## Debug
 
 1: [Git Password via Terminal](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
