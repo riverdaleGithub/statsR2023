@@ -47,8 +47,8 @@
 </head>
   
 <body>
-<div class="container">
-  <h1 class="display-4 mt-4">🚀 Capstone Guide 🤖</h1>
+<div class="container align-items-center justify-content-center">
+  <h1>🚀 Capstone Guide 🤖</h1>
   <p>Hello, students of the cosmos! 🌍🪐</p>
 
   <details>
@@ -106,9 +106,7 @@
 
   <details>
   <summary class="mt-4"> Readme Template </summary>
-    
-  ```md
-  
+  <pre><code>  
   # 🌠 Project Title
 
   ## 🚀 Introduction
@@ -140,9 +138,11 @@
 
   Explain how to run an example of your project.
   
-  ```
+  </pre></code>
   </details>
-
+  
+  <br>
+  
   <h2 class="mt-4">🔬 Detailed Github Guide 🔬</h2>
   <p>Everything you need to know to interface with GitHub</p>
 
@@ -178,7 +178,9 @@
         <p>Your project is now pushed to GitHub! 🎉</p>
     </ol>
   </details>
-
+  
+  <br>
+  
   <h2 class="mt-4">🌍 Turning a Github Repo into GH-Pages</h2>
   <p>Learn how to make your project accessible to the world</p>
 
