@@ -106,39 +106,40 @@
 
   <details>
   <summary class="mt-4"> Readme Template </summary>
-  <code>  
-  # 🌠 Project Title
-
-  ## 🚀 Introduction
-
-  Describe the goal of your project here.
-
-  ## 🧩 Dependencies
-
-  - R (version)
-  - R packages: dplyr, ggplot2, etc.
-
-  ## 📊 Data
-
-  Describe your data here.
-
-  ## 🔬 Analysis
-
-  Describe your analysis here.
-
-  ## 📈 Results
-
-  Describe your results here.
-
-  ## 💡 Conclusion
-
-  What conclusions can be drawn from your analysis?
-
-  ## 🎬 Example Run
-
-  Explain how to run an example of your project.
   
-  </code>
+  <div class="container align-items-center justify-content-center">
+
+      # 🌠 Project Title
+
+      ## 🚀 Introduction
+
+      Describe the goal of your project here.
+
+      ## 🧩 Dependencies
+
+      - R (version)
+      - R packages: dplyr, ggplot2, etc.
+
+      ## 📊 Data
+
+      Describe your data here.
+
+      ## 🔬 Analysis
+
+      Describe your analysis here.
+
+      ## 📈 Results
+
+      Describe your results here.
+
+      ## 💡 Conclusion
+
+      What conclusions can be drawn from your analysis?
+
+      ## 🎬 Example Run
+
+      Explain how to run an example of your project.
+    </div>
   </details>
   
   <br>
