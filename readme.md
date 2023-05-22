@@ -6,18 +6,18 @@ The purpose of this project is to demonstrate your understanding of statistical 
 <details>
 <summary> Expand to Understand </summary>
   
-<br>
-In this repository, you'll find several resources to guide you along your journey:
-<br>
-  
-- 📜 A detailed **Rubric** with our project expectations and grading criteria.
-- 🧙‍♀️ A **README.md Template** to help you create a thorough and concise project description.
-- 🤖 Clear **Instructions for Pushing to Github** to ensure your work is shared and preserved.
-- 🌍 A simple guide on **Turning a Github Repo into GH-Pages**, making your project easily accessible and presentable to anyone in the universe!
+  <br>
+  In this repository, you'll find several resources to guide you along your journey:
+  <br>
 
- <br>
-  
-Please read through all the materials carefully. As always, don't hesitate to ask questions if anything is unclear—we're here to help. Most importantly, remember that this project is a chance for you to showcase your learning and creativity. So, be bold, have fun, and reach for the stars!
+  - 📜 A detailed **Rubric** with our project expectations and grading criteria.
+  - 🧙‍♀️ A **README.md Template** to help you create a thorough and concise project description.
+  - 🤖 Clear **Instructions for Pushing to Github** to ensure your work is shared and preserved.
+  - 🌍 A simple guide on **Turning a Github Repo into GH-Pages**, making your project easily accessible and presentable to anyone in the universe!
+
+   <br>
+
+  Please read through all the materials carefully. As always, don't hesitate to ask questions if anything is unclear—we're here to help. Most importantly, remember that this project is a chance for you to showcase your learning and creativity. So, be bold, have fun, and reach for the stars!
 
 </details>
 <br>
