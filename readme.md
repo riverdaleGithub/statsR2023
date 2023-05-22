@@ -8,12 +8,15 @@ The purpose of this project is to demonstrate your understanding of statistical 
   
 <br>
 In this repository, you'll find several resources to guide you along your journey:
-
+<br>
+  
 - 📜 A detailed **Rubric** with our project expectations and grading criteria.
 - 🧙‍♀️ A **README.md Template** to help you create a thorough and concise project description.
 - 🤖 Clear **Instructions for Pushing to Github** to ensure your work is shared and preserved.
 - 🌍 A simple guide on **Turning a Github Repo into GH-Pages**, making your project easily accessible and presentable to anyone in the universe!
 
+ <br>
+  
 Please read through all the materials carefully. As always, don't hesitate to ask questions if anything is unclear—we're here to help. Most importantly, remember that this project is a chance for you to showcase your learning and creativity. So, be bold, have fun, and reach for the stars!
 
 </details>
@@ -174,6 +177,7 @@ Turn your readme into a website
 
 <details>
 <summary> GH-Pages </summary>
+  
 # 🌍🪐 Turning a GitHub Repo into GH-Pages 🌌🌟
 
 This guide will walk you through the steps to turn your GitHub repository into a GitHub Pages site, making your project easily accessible and presentable to anyone in the universe! 🚀🌟🌈
@@ -220,12 +224,15 @@ Congratulations! 🎉 Your GitHub repository is now a GitHub Pages site! 🌟�
 ## Customizing your GitHub Pages site 🎨✨
 
 You can further customize your GitHub Pages site by adding a custom domain, choosing a theme, and modifying the site's settings. Refer to the [GitHub Pages documentation](https://docs.github.com/en/pages) for more information and unleash your creativity! 🌈💫🎉
-
   
 </details>
 
+<br>
 
 ## Debug
+
+![fire](https://media3.giphy.com/media/dbtDDSvWErdf2/giphy.gif?cid=ecf05e47z1vctwpkuqupy6arzcik6gga61ltmfnulsyndhs9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 1: [Git Password via Terminal](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
