@@ -106,7 +106,8 @@
 
   <details>
   <summary class="mt-4"> Readme Template </summary>
-  <pre><code>
+    
+  ```md
   
   # 🌠 Project Title
 
@@ -139,7 +140,7 @@
 
   Explain how to run an example of your project.
   
-  </pre></code>
+  ```
   </details>
 
   <h2 class="mt-4">🔬 Detailed Github Guide 🔬</h2>
