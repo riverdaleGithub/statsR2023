@@ -3,17 +3,6 @@
   <title>🚀 Capstone Guide 🤖</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.7.2/dist/css/bootstrap.min.css">
   <style>
-    body {
-      background-color: #55CDFC;
-      color: #FFFFFF;
-      padding: 20px;
-      font-family: Arial, sans-serif;
-    }
-
-    h1, h2, h3 {
-      color: #F7A8B8;
-    }
-
     summary {
       color: #F7A8B8;
       cursor: pointer;
