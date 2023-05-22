@@ -106,7 +106,7 @@
 
   <details>
   <summary class="mt-4"> Readme Template </summary>
-  <pre><code>  
+  <code>  
   # 🌠 Project Title
 
   ## 🚀 Introduction
@@ -138,7 +138,7 @@
 
   Explain how to run an example of your project.
   
-  </pre></code>
+  </code>
   </details>
   
   <br>
