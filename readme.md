@@ -40,6 +40,8 @@
   <h1>🚀 Capstone Guide 🤖</h1>
   <p>Hello, students of the cosmos! 🌍🪐</p>
 
+  The purpose of this project is to demonstrate your understanding of statistical methods, your proficiency in R or Python, and your ability to effectively communicate your findings. The project also aims to familiarize you with version control systems and project management on GitHub.
+
   <details>
     <summary class="mt-4"> Expand to Understand </summary>
   
@@ -58,9 +60,10 @@
       <p>Please read through all the materials carefully. As always, don't hesitate to ask questions if anything is unclear—we're here to help. Most importantly, remember that this project is a chance for you to showcase your learning and creativity. So, be bold, have fun, and reach for the stars!</p>
     </div>
   </details>
-
+  <br>
+  
   <h2 class="mt-4">🪄💫 Rubric 🌟🔮</h2>
-  <p>Happy coding, data wizards! 🧙‍♀️💻🔮</p>
+  <p>How-To Grade 🧙‍♀️💻🔮</p>
 
   <details>
     <summary class="mt-4"> Rubric </summary>
@@ -89,7 +92,8 @@
       <li>[ ] Collaborates effectively on GitHub, demonstrating the ability to clone, pull, and push changes (10 points)</li>
     </ul>
   </details>
-
+  <br>
+  
   <h2 class="mt-4">🧙‍♀️ Your Readme 🧙‍♀️</h2>
   <p>Learn how to structure and create your project readme</p>
 
@@ -128,6 +132,7 @@
       ## 🎬 Example Run
 
       Explain how to run an example of your project.
+    
     </div>
   </details>
   
@@ -195,6 +200,11 @@
         <p>Your project is now live on GitHub Pages! 🎉</p>
     </ol>
   </details>
+  <p>
+  Debugging Tokens <br><a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">
+<center><img border="0" alt="W3Schools" src="https://media3.giphy.com/media/dbtDDSvWErdf2/giphy.gif?cid=ecf05e47z1vctwpkuqupy6arzcik6gga61ltmfnulsyndhs9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="100" height="100"></center>
+</a>
+</p>
 </div>
 </body>
 </html>
