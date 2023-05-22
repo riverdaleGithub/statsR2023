@@ -3,6 +3,10 @@ Hello, students of the cosmos! 🌍🪐
 
 The purpose of this project is to demonstrate your understanding of statistical methods, your proficiency in R or Python, and your ability to effectively communicate your findings. The project also aims to familiarize you with version control systems and project management on GitHub.
 
+<details>
+<summary> Expand to Understand </summary>
+  
+<br>
 In this repository, you'll find several resources to guide you along your journey:
 
 - 📜 A detailed **Rubric** with our project expectations and grading criteria.
@@ -12,12 +16,36 @@ In this repository, you'll find several resources to guide you along your journe
 
 Please read through all the materials carefully. As always, don't hesitate to ask questions if anything is unclear—we're here to help. Most importantly, remember that this project is a chance for you to showcase your learning and creativity. So, be bold, have fun, and reach for the stars!
 
+</details>
+<br>
+
+## 🪄💫 Rubric For Final Stats R Project 🌟🔮
 Happy coding, data wizards! 🧙‍♀️💻🔮
 
+<details>
+<summary> Rubric </summary>
+
+## Project Understanding and Implementation (40 points)
+- [ ] Demonstrates a clear understanding of the statistical methods used in the project (10 points)
+- [ ] Applies appropriate statistical techniques to analyze the data (15 points)
+- [ ] Implements the analysis in R or Python with correct usage of relevant libraries (15 points)
+
+## Communication of Findings (30 points)
+- [ ] Provides a thorough and concise project description in the README.md file (10 points)
+- [ ] Clearly explains the data used and its relevance to the project (5 points)
+- [ ] Describes the analysis conducted and the results obtained (10 points)
+- [ ] Presents clear conclusions based on the analysis (5 points)
+
+## Version Control and Project Management (30 points)
+- [ ] Utilizes Git for version control and pushes regular commits (10 points)
+- [ ] Maintains a well-organized project structure with appropriate file naming and documentation (10 points)
+- [ ] Collaborates effectively on GitHub, demonstrating the ability to clone, pull, and push changes (10 points)
+
+</details>
 
 <br>
   
-## Your Readme
+## 🧙‍♀️ Your Readme 🧙‍♀️
  
 Learn how to structure and create your project readme
  
@@ -60,7 +88,9 @@ Explain how to run an example of your project.
 ```  
 </details>
 
-## Detailed Github Guide
+<br>
+
+## 🔬 Detailed Github Guide 🔬
 Everything you need to know to interface with github
   
 <details>
@@ -134,10 +164,14 @@ Congratulations! 🎉 Your project is now on GitHub!
 5. Add you project script to your folder, and push changes with the commit message of your name.
 6. Locally pull all changes to demonstrate version control.
 
-## Debug
+  
+</details>
+
+<br>
+
+
+
+# Debug
 
 1: [Git Password via Terminal](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
-  
-  
- </details>
